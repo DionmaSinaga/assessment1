@@ -72,9 +72,9 @@ class MainActivity : AppCompatActivity() {
     private fun initItems(): ArrayList<Film> {
         return arrayListOf(
             Film("Infinity War", R.drawable.infinity_war),
-            Film("Dilan 1990", R.drawable.Dilan),
-            Film("Haikyuu!", R.drawable.Haikyuu),
-            Film("Itaewon Class", R.drawable.Itaewon_class),
+            Film("Dilan 1990", R.drawable.dilan),
+            Film("Haikyuu!", R.drawable.haikyuu),
+            Film("Itaewon Class", R.drawable.itaewon_class),
             Film("Descendant of The Sun", R.drawable.dots),
         )
     }
